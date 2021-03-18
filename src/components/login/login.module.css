@@ -1,0 +1,33 @@
+.fontSpace
+{
+    letter-spacing: 5px;
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #fff;
+    text-shadow: 0px 0px 10px rgb(255, 255, 255);
+}
+.backgroundLogin
+{
+    background-color: rgba(5, 5, 5, 0.931);
+}
+.btnLogin
+{
+    border: 1px solid white;
+    background-color: transparent;
+    font-size: 1.4rem !important;
+    font-weight: 900 !important;
+    color: #fff;
+    border-radius: 24px;
+    letter-spacing: 4px;
+    margin: 15px;
+   
+}
+.btn:hover {
+    color: #fff !important;
+    text-decoration: none;
+}
+.loginForm
+{
+    color: rgb(255, 255, 255);
+    text-shadow: 0px 0px 14px rgb(255, 255, 255);
+}
